@@ -1,0 +1,152 @@
+{
+    "PayData": [
+        {
+            "name": "HR Specialist",
+            "value": "hrSpecialist",
+            "cities" : [
+                {
+                    "city": "Miami",
+                    "independent": 37.15,
+                    "staffing": 42.1
+                },
+                {
+                    "city": "New York",
+                    "independent": 35.15,
+                    "staffing": 40
+                },
+                {
+                    "city": "California",
+                    "independent": 35.15,
+                    "staffing": 40
+                },
+                {
+                    "city": "Illinois",
+                    "independent": 35.15,
+                    "staffing": 40
+                },
+                {
+                    "city": "Missouri",
+                    "independent": 35.15,
+                    "staffing": 40
+                },
+                {
+                    "city": "Minnesota",
+                    "independent": 35.15,
+                    "staffing": 40
+                }
+            ],
+            "Vinali": 19
+        },
+        {
+            "name": "Payroll Accountant",
+            "value": "PayrollAcc",
+            "cities": [
+                {
+                    "city": "Miami",
+                    "independent": 40.2,
+                    "staffing": 45.36
+                },
+                {
+                    "city": "New York",
+                    "independent": 41.7,
+                    "staffing": 47
+                },
+                {
+                    "city": "California",
+                    "independent": 41.7,
+                    "staffing": 47
+                },
+                {
+                    "city": "Illinois",
+                    "independent": 41.7,
+                    "staffing": 47
+                },
+                {
+                    "city": "Missouri",
+                    "independent": 41.7,
+                    "staffing": 47
+                },
+                {
+                    "city": "Minnesota",
+                    "independent": 41.7,
+                    "staffing": 47
+                }
+            ],
+            "Vinali": 20
+        },   
+        {
+            "name": "Executive Assistant",
+            "value": "ExcecutiveAss",
+            "cities": [
+                {
+                    "city": "Miami",
+                    "independent": 31.15,
+                    "staffing": 35.31
+                },
+                {
+                    "city": "New York",
+                    "independent": 34.15,
+                    "staffing": 38.57
+                },
+                {
+                    "city": "California",
+                    "independent": 34.15,
+                    "staffing": 38.57
+                },
+                {
+                    "city": "Illinois",
+                    "independent": 34.15,
+                    "staffing": 38.57
+                },
+                {
+                    "city": "Missouri",
+                    "independent": 34.15,
+                    "staffing": 38.57
+                },
+                {
+                    "city": "Minnesota",
+                    "independent": 34.15,
+                    "staffing": 38.57
+                }
+            ],
+            "Vinali": 19
+        },
+        {
+            "name": "Financial Business Analyst",
+            "value": "FiancialBAnalyst",
+            "cities": [
+                {
+                    "city": "Miami",
+                    "independent": 34.4,
+                    "staffing": 38.84
+                },
+                {
+                    "city": "New York",
+                    "independent": 39.75,
+                    "staffing": 44.82
+                },
+                {
+                    "city": "California",
+                    "independent": 39.75,
+                    "staffing": 44.82
+                },
+                {
+                    "city": "Illinois",
+                    "independent": 39.75,
+                    "staffing": 44.82
+                },
+                {
+                    "city": "Missouri",
+                    "independent": 39.75,
+                    "staffing": 44.82
+                },
+                {
+                    "city": "Minnesota",
+                    "independent": 39.75,
+                    "staffing": 44.82
+                }
+            ],
+            "Vinali": 23
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+$body-font-family: 'Montserrat', sans-serif;
+
+body {
+    font-family: $body-font-family;
+}
+
+/* Responsive */
+$breakpoints: (
+  xs: 512,
+  sm: 768px,
+  md: 992px,
+  lg: 1200px,
+  xl: 1400px
+);
+
+// Mixin para generar media queries
+@mixin respond-to($breakpoint) {
+  // Obtener el tamaño del breakpoint especificado
+  $size: map-get($breakpoints, $breakpoint);
+  @media (min-width: $size) {
+    @content;
+  }
+}
+.txt- {
+    &h1, &h2, &h3, &h4, &h5, &h6 {
+        line-height: 1.5rem;
+        letter-spacing: -0.0083333333em;
+        font-family: $body-font-family;
+    }
+    &h1 { font-size: 2.25rem; }
+    &h2 { font-size: 2rem; }
+    &h3 { font-size: 1.75rem; }
+    &h4 { font-size: 1.5rem; }
+    &h5 { font-size: 1.25rem; }
+    &h6 { font-size: 1rem; }
+
+    @media (min-width: 512px) {
+        &h1, &h2, &h3, &h4, &h5, &h6 {
+            line-height: 2rem;
+        }
+        &h1 { font-size: 2.5rem; }
+        &h2 { font-size: 2.25rem; }
+        &h3 { font-size: 2rem; }
+        &h4 { font-size: 1.75rem; }
+        &h5 { font-size: 1.5rem; }
+        &h6 { font-size: 1.25rem; }
+    }
+    @media (min-width: 768px) {
+        &h1, &h2, &h3, &h4, &h5, &h6 {
+            line-height: 2.5rem;
+        }
+        &h1 { font-size: 2.75rem; }
+        &h2 { font-size: 2.5rem; }
+        &h3 { font-size: 2.25rem; }
+        &h4 { font-size: 2rem; }
+        &h5 { font-size: 1.75rem; }
+        &h6 { font-size: 1.5rem; }
+    }
+    @media (min-width: 992px){
+        &h1, &h2, &h3, &h4, &h5, &h6 {
+            line-height: 3rem;
+        }
+        &h1 { font-size: 3rem; }
+        &h2 { font-size: 2.75rem; }
+        &h3 { font-size: 2.5rem; }
+        &h4 { font-size: 2.25rem; }
+        &h5 { font-size: 2rem; }
+        &h6 { font-size: 1.75rem; }
+    }
+    @media (min-width: 1200px){
+        &h1, &h2, &h3, &h4, &h5, &h6 {
+            line-height: 3.5rem;
+        }
+        &h1 { font-size: 3.25rem; }
+        &h2 { font-size: 3rem; }
+        &h3 { font-size: 2.75rem; }
+        &h4 { font-size: 2.5rem; }
+        &h5 { font-size: 2.25rem; }
+        &h6 { font-size: 2rem; }
+    }
+    @media (min-width: 1400px){
+        &h1, &h2, &h3, &h4, &h5, &h6 {
+            line-height: 3.75rem;
+        }
+        &h1 { font-size: 3.5rem; }
+        &h2 { font-size: 3.25rem; }
+        &h3 { font-size: 3rem; }
+        &h4 { font-size: 2.75rem; }
+        &h5 { font-size: 2.5rem; }
+        &h6 { font-size: 1.5rem; }
+    }
+}
+.txt-caption {
+    font-size: 0.75rem;
+    font-weight: 400;
+    line-height: 1.25rem;
+    letter-spacing: 0.0333333333em;
+    font-family: $body-font-family;
+}
+.w-100 { width: 100%; }
+.w-50 { width: 50%; }
+.mxw-1000 {
+    max-width: 1000px;
+    width: 100%;
+}
