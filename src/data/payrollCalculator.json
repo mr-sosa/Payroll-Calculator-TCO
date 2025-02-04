@@ -1010,7 +1010,7 @@
                 },
                 {
                     "state": "Vermont",
-                    "independent": 33.15
+                    "independent": 35.15
                 },
                 {
                     "state": "Virginia",
@@ -1045,7 +1045,7 @@
                 },
                 {
                     "state": "Alaska",
-                    "independent": 23.35
+                    "independent": 25.35
                 },
                 {
                     "state": "Arizona",
@@ -1448,6 +1448,627 @@
                 }
             ],
             "Vinali": 19
+        },
+        {
+            "name": "Office Administrator",
+            "value": "OfficeAdministrator",
+            "states": [
+                {
+                    "state": "Alabama",
+                    "independent": 19.8
+                },
+                {
+                    "state": "Alaska",
+                    "independent": 22.25
+                },
+                {
+                    "state": "Arizona",
+                    "independent": 21.75
+                },
+                {
+                    "state": "Arkansas",
+                    "independent": 17.65
+                },
+                {
+                    "state": "California",
+                    "independent": 21.65
+                },
+                {
+                    "state": "Colorado",
+                    "independent": 24.75
+                },
+                {
+                    "state": "Connecticut",
+                    "independent": 19.8
+                },
+                {
+                    "state": "Delaware",
+                    "independent": 17.25
+                },
+                {
+                    "state": "Florida",
+                    "independent": 19.45
+                },
+                {
+                    "state": "Georgia",
+                    "independent": 19.45
+                },
+                {
+                    "state": "Hawaii",
+                    "independent": 20.75
+                },
+                {
+                    "state": "Idaho",
+                    "independent": 17.65
+                },
+                {
+                    "state": "Illinois",
+                    "independent": 21.25
+                },
+                {
+                    "state": "Indiana",
+                    "independent": 20.15
+                },
+                {
+                    "state": "Iowa",
+                    "independent": 19.95
+                },
+                {
+                    "state": "Kansas",
+                    "independent": 19.80
+                },
+                {
+                    "state": "Kentucky",
+                    "independent": 18.10
+                },
+                {
+                    "state": "Louisiana",
+                    "independent": 19.80
+                },
+                {
+                    "state": "Maine",
+                    "independent": 21.40
+                },
+                {
+                    "state": "Maryland",
+                    "independent": 19.30
+                },
+                {
+                    "state": "Massachusetts",
+                    "independent": 19.80
+                },
+                {
+                    "state": "Michigan",
+                    "independent": 20.80
+                },
+                {
+                    "state": "Minnesota",
+                    "independent": 22.35
+                },
+                {
+                    "state": "Mississippi",
+                    "independent": 16.20
+                },
+                {
+                    "state": "Missouri",
+                    "independent": 20.50
+                },
+                {
+                    "state": "Montana",
+                    "independent": 19.05
+                },
+                {
+                    "state": "Nebraska",
+                    "independent": 18.20
+                },
+                {
+                    "state": "Nevada",
+                    "independent": 19.85
+                },
+                {
+                    "state": "New Hampshire",
+                    "independent": 19.80
+                },
+                {
+                    "state": "New Jersey",
+                    "independent": 21.90
+                },
+                {
+                    "state": "New Mexico",
+                    "independent": 16.25
+                },
+                {
+                    "state": "New York",
+                    "independent": 19.80
+                },
+                {
+                    "state": "North Carolina",
+                    "independent": 18.95
+                },
+                {
+                    "state": "North Dakota",
+                    "independent": 22.10
+                },
+                {
+                    "state": "Ohio",
+                    "independent": 20.15
+                },
+                {
+                    "state": "Oklahoma",
+                    "independent": 16.80
+                },
+                {
+                    "state": "Oregon",
+                    "independent": 21.40
+                },
+                {
+                    "state": "Pennsylvania",
+                    "independent": 21.10
+                },
+                {
+                    "state": "Rhode Island",
+                    "independent": 19.80
+                },
+                {
+                    "state": "South Carolina",
+                    "independent": 17.45
+                },
+                {
+                    "state": "South Dakota",
+                    "independent": 15.70
+                },
+                {
+                    "state": "Tennessee",
+                    "independent": 17.70
+                },
+                {
+                    "state": "Texas",
+                    "independent": 18.75
+                },
+                {
+                    "state": "Utah",
+                    "independent": 19.25
+                },
+                {
+                    "state": "Vermont",
+                    "independent": 19.80
+                },
+                {
+                    "state": "Virginia",
+                    "independent": 18.10
+                },
+                {
+                    "state": "Washington",
+                    "independent": 24.30
+                },
+                {
+                    "state": "West Virginia",
+                    "independent": 17.45
+                },
+                {
+                    "state": "Wisconsin",
+                    "independent": 19.85
+                },
+                {
+                    "state": "Wyoming",
+                    "independent": 19.30
+                }
+            ],
+            "Vinali": 16
+        },
+        {
+            "name": "Scheduler",
+            "value": "Scheduler",
+            "states": [
+                {
+                    "state": "Alabama",
+                    "independent": 16.95
+                },
+                {
+                    "state": "Alaska",
+                    "independent": 19.70
+                },
+                {
+                    "state": "Arizona",
+                    "independent": 19.85
+                },
+                {
+                    "state": "Arkansas",
+                    "independent": 16.20
+                },
+                {
+                    "state": "California",
+                    "independent": 21.55
+                },
+                {
+                    "state": "Colorado",
+                    "independent": 19.05
+                },
+                {
+                    "state": "Connecticut",
+                    "independent": 19.05
+                },
+                {
+                    "state": "Delaware",
+                    "independent": 19.05
+                },
+                {
+                    "state": "Florida",
+                    "independent": 17.15
+                },
+                {
+                    "state": "Georgia",
+                    "independent": 19.20
+                },
+                {
+                    "state": "Hawaii",
+                    "independent": 20.50
+                },
+                {
+                    "state": "Idaho",
+                    "independent": 17.10
+                },
+                {
+                    "state": "Illinois",
+                    "independent": 21.40
+                },
+                {
+                    "state": "Indiana",
+                    "independent": 18.60
+                },
+                {
+                    "state": "Iowa",
+                    "independent": 20.35
+                },
+                {
+                    "state": "Kansas",
+                    "independent": 15.20
+                },
+                {
+                    "state": "Kentucky",
+                    "independent": 18.15
+                },
+                {
+                    "state": "Louisiana",
+                    "independent": 15.10
+                },
+                {
+                    "state": "Maine",
+                    "independent": 20.95
+                },
+                {
+                    "state": "Maryland",
+                    "independent": 18.75
+                },
+                {
+                    "state": "Massachusetts",
+                    "independent": 19.05
+                },
+                {
+                    "state": "Michigan",
+                    "independent": 19.80
+                },
+                {
+                    "state": "Minnesota",
+                    "independent": 20.00
+                },
+                {
+                    "state": "Mississippi",
+                    "independent": 19.05
+                },
+                {
+                    "state": "Missouri",
+                    "independent": 18.85
+                },
+                {
+                    "state": "Montana",
+                    "independent": 16.20
+                },
+                {
+                    "state": "Nebraska",
+                    "independent": 17.60
+                },
+                {
+                    "state": "Nevada",
+                    "independent": 19.20
+                },
+                {
+                    "state": "New Hampshire",
+                    "independent": 19.05
+                },
+                {
+                    "state": "New Jersey",
+                    "independent": 19.60
+                },
+                {
+                    "state": "New Mexico",
+                    "independent": 16.75
+                },
+                {
+                    "state": "New York",
+                    "independent": 19.05
+                },
+                {
+                    "state": "North Carolina",
+                    "independent": 17.40
+                },
+                {
+                    "state": "North Dakota",
+                    "independent": 16.55
+                },
+                {
+                    "state": "Ohio",
+                    "independent": 21.25
+                },
+                {
+                    "state": "Oklahoma",
+                    "independent": 18.30
+                },
+                {
+                    "state": "Oregon",
+                    "independent": 20.95
+                },
+                {
+                    "state": "Pennsylvania",
+                    "independent": 17.80
+                },
+                {
+                    "state": "Rhode Island",
+                    "independent": 19.05
+                },
+                {
+                    "state": "South Carolina",
+                    "independent": 17.15
+                },
+                {
+                    "state": "South Dakota",
+                    "independent": 15.10
+                },
+                {
+                    "state": "Tennessee",
+                    "independent": 19.55
+                },
+                {
+                    "state": "Texas",
+                    "independent": 18.00
+                },
+                {
+                    "state": "Utah",
+                    "independent": 18.60
+                },
+                {
+                    "state": "Vermont",
+                    "independent": 19.05
+                },
+                {
+                    "state": "Virginia",
+                    "independent": 15.95
+                },
+                {
+                    "state": "Washington",
+                    "independent": 22.40
+                },
+                {
+                    "state": "West Virginia",
+                    "independent": 17.15
+                },
+                {
+                    "state": "Wisconsin",
+                    "independent": 17.95
+                },
+                {
+                    "state": "Wyoming",
+                    "independent": 26.25
+                }
+            ],
+            "Vinali": 14.50
+        },
+        {
+            "name": "Payroll Specialist",
+            "value": "PayrollSpecialist",
+            "states": [
+                {
+                    "state": "Alabama",
+                    "independent": 23.90
+                },
+                {
+                    "state": "Alaska",
+                    "independent": 26.25
+                },
+                {
+                    "state": "Arizona",
+                    "independent": 23.90
+                },
+                {
+                    "state": "Arkansas",
+                    "independent": 22.80
+                },
+                {
+                    "state": "California",
+                    "independent": 27.50
+                },
+                {
+                    "state": "Colorado",
+                    "independent": 27.95
+                },
+                {
+                    "state": "Connecticut",
+                    "independent": 25.15
+                },
+                {
+                    "state": "Delaware",
+                    "independent": 20.15
+                },
+                {
+                    "state": "Florida",
+                    "independent": 22.05
+                },
+                {
+                    "state": "Georgia",
+                    "independent": 25.40
+                },
+                {
+                    "state": "Hawaii",
+                    "independent": 27.90
+                },
+                {
+                    "state": "Idaho",
+                    "independent": 21.60
+                },
+                {
+                    "state": "Illinois",
+                    "independent": 26.75
+                },
+                {
+                    "state": "Indiana",
+                    "independent": 23.65
+                },
+                {
+                    "state": "Iowa",
+                    "independent": 27.65
+                },
+                {
+                    "state": "Kansas",
+                    "independent": 23.15
+                },
+                {
+                    "state": "Kentucky",
+                    "independent": 25.05
+                },
+                {
+                    "state": "Louisiana",
+                    "independent": 23.25
+                },
+                {
+                    "state": "Maine",
+                    "independent": 25.70
+                },
+                {
+                    "state": "Maryland",
+                    "independent": 26.80
+                },
+                {
+                    "state": "Massachusetts",
+                    "independent": 25.15
+                },
+                {
+                    "state": "Michigan",
+                    "independent": 26.85
+                },
+                {
+                    "state": "Minnesota",
+                    "independent": 27.25
+                },
+                {
+                    "state": "Mississippi",
+                    "independent": 19.75
+                },
+                {
+                    "state": "Missouri",
+                    "independent": 25.55
+                },
+                {
+                    "state": "Montana",
+                    "independent": 21.35
+                },
+                {
+                    "state": "Nebraska",
+                    "independent": 23.35
+                },
+                {
+                    "state": "Nevada",
+                    "independent": 24.70
+                },
+                {
+                    "state": "New Hampshire",
+                    "independent": 25.15
+                },
+                {
+                    "state": "New Jersey",
+                    "independent": 29.80
+                },
+                {
+                    "state": "New Mexico",
+                    "independent": 22.55
+                },
+                {
+                    "state": "New York",
+                    "independent": 25.15
+                },
+                {
+                    "state": "North Carolina",
+                    "independent": 25.25
+                },
+                {
+                    "state": "North Dakota",
+                    "independent": 26.55
+                },
+                {
+                    "state": "Ohio",
+                    "independent": 23.05
+                },
+                {
+                    "state": "Oklahoma",
+                    "independent": 22.30
+                },
+                {
+                    "state": "Oregon",
+                    "independent": 25.70
+                },
+                {
+                    "state": "Pennsylvania",
+                    "independent": 27.95
+                },
+                {
+                    "state": "Rhode Island",
+                    "independent": 25.15
+                },
+                {
+                    "state": "South Carolina",
+                    "independent": 23.10
+                },
+                {
+                    "state": "South Dakota",
+                    "independent": 20.70
+                },
+                {
+                    "state": "Tennessee",
+                    "independent": 22.60
+                },
+                {
+                    "state": "Texas",
+                    "independent": 24.65
+                },
+                {
+                    "state": "Utah",
+                    "independent": 25.00
+                },
+                {
+                    "state": "Vermont",
+                    "independent": 25.15
+                },
+                {
+                    "state": "Virginia",
+                    "independent": 23.55
+                },
+                {
+                    "state": "Washington",
+                    "independent": 30.15
+                },
+                {
+                    "state": "West Virginia",
+                    "independent": 23.10
+                },
+                {
+                    "state": "Wisconsin",
+                    "independent": 24.50
+                },
+                {
+                    "state": "Wyoming",
+                    "independent": 21.80
+                }
+            ],
+            "Vinali": 16
         }
     ]
 }
